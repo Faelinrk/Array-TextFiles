@@ -1,0 +1,9 @@
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\ArrLibrary\bin\Debug\netstandard2.0\ArrLibrary.deps.json
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\ArrLibrary\bin\Debug\netstandard2.0\ArrLibrary.dll
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\ArrLibrary\bin\Debug\netstandard2.0\ArrLibrary.pdb
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\ArrLibrary\obj\Debug\netstandard2.0\ArrLibrary.csprojAssemblyReference.cache
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\ArrLibrary\obj\Debug\netstandard2.0\ArrLibrary.AssemblyInfoInputs.cache
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\ArrLibrary\obj\Debug\netstandard2.0\ArrLibrary.AssemblyInfo.cs
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\ArrLibrary\obj\Debug\netstandard2.0\ArrLibrary.csproj.CoreCompileInputs.cache
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\ArrLibrary\obj\Debug\netstandard2.0\ArrLibrary.dll
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\ArrLibrary\obj\Debug\netstandard2.0\ArrLibrary.pdb

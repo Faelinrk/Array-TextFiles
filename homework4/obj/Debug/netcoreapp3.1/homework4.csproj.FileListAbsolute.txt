@@ -1,0 +1,13 @@
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\homework4\bin\Debug\netcoreapp3.1\homework4.exe
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\homework4\bin\Debug\netcoreapp3.1\homework4.deps.json
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\homework4\bin\Debug\netcoreapp3.1\homework4.runtimeconfig.json
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\homework4\bin\Debug\netcoreapp3.1\homework4.runtimeconfig.dev.json
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\homework4\bin\Debug\netcoreapp3.1\homework4.dll
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\homework4\bin\Debug\netcoreapp3.1\homework4.pdb
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\homework4\obj\Debug\netcoreapp3.1\homework4.csprojAssemblyReference.cache
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\homework4\obj\Debug\netcoreapp3.1\homework4.AssemblyInfoInputs.cache
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\homework4\obj\Debug\netcoreapp3.1\homework4.AssemblyInfo.cs
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\homework4\obj\Debug\netcoreapp3.1\homework4.csproj.CoreCompileInputs.cache
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\homework4\obj\Debug\netcoreapp3.1\homework4.dll
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\homework4\obj\Debug\netcoreapp3.1\homework4.pdb
+C:\Users\faeli\Desktop\Уроки\HomeworkVS\homework4\homework4\obj\Debug\netcoreapp3.1\homework4.genruntimeconfig.cache

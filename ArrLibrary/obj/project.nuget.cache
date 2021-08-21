@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WPkPFzv1ZCauNT4JMvTb8cA9u0U1kz2FoWHZkEVIkK7Y6aw0oWeAjB+e0VlaIKxmBbcV5T589N4e0rFMf3dWfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faeli\\Desktop\\Уроки\\HomeworkVS\\homework4\\ArrLibrary\\ArrLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faeli\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\faeli\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "homework4(1)/1.0.0": {
+        "dependencies": {
+          "ArrLibrary": "1.0.0"
+        },
+        "runtime": {
+          "homework4(1).dll": {}
+        }
+      },
+      "ArrLibrary/1.0.0": {
+        "runtime": {
+          "ArrLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "homework4(1)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArrLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
